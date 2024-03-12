@@ -35,6 +35,7 @@ ACCESS_DENIED_SELECTORS = [
 CHALLENGE_TITLES = [
     # Cloudflare
     'Just a moment...',
+    'Antibot Challenge Page',
     # DDoS-GUARD
     'DDoS-Guard'
 ]
